@@ -1,0 +1,21 @@
+.contactForm {
+  background-color: #262222;
+}
+
+.contactTitle {
+  /* color: white; */
+  font-weight: 700;
+  font-size: 82px;
+
+  background: linear-gradient(90deg, #ffffff 0%, #ffe100 125%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contactDescription {
+  color: white;
+  opacity: 0.7;
+
+  font-weight: 500;
+  font-size: 22px;
+}

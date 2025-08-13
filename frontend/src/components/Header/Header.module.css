@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+
+  text-align: center;
+  align-items: center;
+  color: white;
+
+  position: absolute;
+  top: 28px;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.belowHeader {
+  /* margin-top: 80px; */
+}
+
+.NavigationBar {
+  font-weight: 500;
+  font-size: 18px;
+  /* background-color: red; */
+  /* width: 100%; */
+  /* gap: 200px; */
+}

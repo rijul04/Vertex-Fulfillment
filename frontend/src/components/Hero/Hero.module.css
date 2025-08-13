@@ -1,0 +1,15 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.children {
+  /* max-width: min(55%, 100vw); */
+  /* max-width: min(1200px, 100vw); */
+  max-width: 82%;
+  padding-top: 3rem;
+  padding-bottom: 8rem;
+}

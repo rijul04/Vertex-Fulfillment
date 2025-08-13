@@ -1,0 +1,19 @@
+.background {
+  background-color: rgb(220, 224, 178);
+}
+
+.baseBackground {
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: multiply;
+}
+
+.title {
+  text-align: center;
+  color: white;
+
+  font-weight: 600;
+  font-size: 28px;
+
+  padding-top: 8rem;
+  padding-bottom: 48px;
+}

@@ -1,0 +1,115 @@
+.base {
+  color: white;
+}
+
+.base h2 {
+  font-weight: 600;
+  font-size: 75px;
+}
+
+.base h3 {
+  font-weight: 600;
+  font-size: 60px;
+  color: #ffe100;
+}
+
+.base h4 {
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.baseBackground {
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: multiply;
+}
+
+.serviceDescription h4 {
+  font-weight: 400;
+  font-size: 38px;
+}
+
+.serviceDescription .title {
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+.infoCard {
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  justify-content: center;
+}
+
+.steps {
+  margin-top: -6rem;
+}
+
+.steps h4 {
+  font-weight: 400;
+  font-size: 38px;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.chooseUsBackground {
+  background-color: #eeeeee;
+}
+
+.chooseUs {
+  padding-top: 8rem;
+}
+
+.chooseUs h4 {
+  font-weight: 400;
+  font-size: 38px;
+  padding-bottom: 2rem;
+}
+
+.chooseUs p {
+  font-weight: 400;
+  font-size: 21px;
+  padding-bottom: 6rem;
+}
+
+.mapData {
+  background-color: black;
+}
+
+.mapDataImage {
+  width: 52vw;
+  height: auto;
+}
+
+.mapDataContacts {
+  color: white;
+
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.contactFormBackground {
+  /* background-color: #262222; */
+}
+
+.contactForm {
+  padding-top: 8rem;
+}
+
+.contactTitle {
+  /* color: white; */
+  font-weight: 700;
+  font-size: 82px;
+
+  background: linear-gradient(90deg, #000000 0%, #ffe100 125%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contactDescription {
+  color: rgb(0, 0, 0);
+  /* opacity: 0.7; */
+
+  font-weight: 500;
+  font-size: 22px;
+}

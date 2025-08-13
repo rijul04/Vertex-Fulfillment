@@ -1,0 +1,19 @@
+.iconWrapper {
+  display: inline-flex;
+  background-color: #27272a;
+  color: white;
+  padding: 6px;
+  border-radius: 50%;
+
+  font-size: 28px;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 16px;
+}

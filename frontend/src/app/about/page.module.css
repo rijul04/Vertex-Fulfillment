@@ -1,0 +1,29 @@
+.aboutUsBackground {
+  background-color: black;
+}
+
+.aboutUs {
+  color: white;
+}
+
+.aboutUs h5 {
+  font-weight: 500;
+  font-size: 38px;
+}
+
+.aboutUs p {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.chevronWrapper {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.chevron {
+  width: 100%;
+  height: 60px;
+  background: #000000;
+  clip-path: polygon(0 0, 50% 100%, 100% 0);
+}
