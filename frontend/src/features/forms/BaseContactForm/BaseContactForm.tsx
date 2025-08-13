@@ -1,9 +1,7 @@
 import {
-  VStack,
   Input,
   Textarea,
   Button,
-  Text,
   Card,
   Stack,
   Field,
@@ -126,7 +124,7 @@ export const BaseContactForm2 = () => (
           Send Message
         </Button>
       </form>
-      <Image src="/IMAGE_1.png" width={"400px"} rounded="md" />
+      <Image src="/IMAGE_1.png" alt="img" width={"400px"} rounded="md" />
     </HStack>
   </Card.Root>
 );

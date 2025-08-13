@@ -1,4 +1,4 @@
-import { HStack, Icon, Link, Stack, VStack } from "@chakra-ui/react";
+import { HStack, Icon, Link, VStack } from "@chakra-ui/react";
 import { SiGithub, SiLinkedin, SiX } from "react-icons/si";
 import { Copyright } from "./copyright";
 import Logo from "../Logo/Logo";

@@ -8,17 +8,12 @@ import {
   Grid,
   GridItem,
   HStack,
-  Icon,
   SimpleGrid,
   VStack,
 } from "@chakra-ui/react";
 import InfoCard from "@/features/cards/InfoCard/InfoCard";
 import Step from "@/features/basicInfo/Step/Step";
-import {
-  GlobeLocation20Regular,
-  GlobeLocationFilled,
-  GlobeLocationRegular,
-} from "@fluentui/react-icons";
+import { GlobeLocationRegular } from "@fluentui/react-icons";
 import IconDescription from "@/features/basicInfo/IconDescription/IconDescription";
 import Image from "next/image";
 import { BaseContactForm2 } from "@/features/forms/BaseContactForm/BaseContactForm";
